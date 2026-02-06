@@ -746,7 +746,8 @@ Accessories = {
 
 -- TEMP
 { Blacklist = false, Name = "Gun", AlternativeName = "Gun", MeshId = "136639024005182", TextureId = "79386784980218", AllowAlternativeCFrame = false, CoordinateFrame = CFramenew(1.15, 0, -1.15)  * CFrameAngles(0, 1.57, -1.57), AlternativeCFrame = CFrameidentity },
-
+{ Blacklist = false, Name = "Gun", AlternativeName = "Gun", MeshId = "17386444997", TextureId = "17386445032", AllowAlternativeCFrame = false, CoordinateFrame = CFramenew(1.15, -7.35, -1.380)  * CFrameAngles(0, 1.57, -1.57), AlternativeCFrame = CFrameidentity },
+},
 Rig = {
 Transparency = 1,
 R15 = false,
