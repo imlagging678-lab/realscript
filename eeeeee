@@ -727,11 +727,11 @@ Accessories = {
 { Blacklist = true, Name = "Left Leg", AlternativeName = "LeftLowerLeg", MeshId = "11159370334", TextureId = "11159284657", AllowAlternativeCFrame = false, CoordinateFrame = CFrameAngles(1.57, 1.57, 0), AlternativeCFrame = CFrameidentity },
 
 -- Mesh Rig
-{ Blacklist = true, Name = "Torso", AlternativeName = "UpperTorso", MeshId = "127552124837034", TextureId = "131014325980101", AllowAlternativeCFrame = false, CoordinateFrame = CFrameAngles(0, 0, 0), AlternativeCFrame = CFrameidentity },
-{ Blacklist = true, Name = "Right Arm", AlternativeName = "RightLowerArm", MeshId = "121304376791439", TextureId = "131014325980101", AllowAlternativeCFrame = false, CoordinateFrame = CFrameAngles(0, 0, 0), AlternativeCFrame = CFrameidentity },
-{ Blacklist = true, Name = "Left Arm", AlternativeName = "LeftLowerArm", MeshId = "117287001096396", TextureId = "120169691545791", AllowAlternativeCFrame = false, CoordinateFrame = CFrameAngles(0, 0, 0), AlternativeCFrame = CFrameidentity },    
-{ Blacklist = true, Name = "Right Leg", AlternativeName = "RightLowerLeg", MeshId = "121304376791439", TextureId = "131014325980101", AllowAlternativeCFrame = false, CoordinateFrame = CFrameAngles(0, 0, 0), AlternativeCFrame = CFrameidentity },
-{ Blacklist = true, Name = "Left Leg", AlternativeName = "LeftLowerLeg", MeshId = "117287001096396", TextureId = "120169691545791", AllowAlternativeCFrame = false, CoordinateFrame = CFrameAngles(0, 0, 0), AlternativeCFrame = CFrameidentity },
+{ Blacklist = true, Name = "Torso", AlternativeName = "UpperTorso", MeshId = "18919864231", TextureId = "18430134193", AllowAlternativeCFrame = false, CoordinateFrame = CFrameAngles(0, 0, 0), AlternativeCFrame = CFrameidentity },
+{ Blacklist = true, Name = "Right Arm", AlternativeName = "RightLowerArm", MeshId = "18881739115", TextureId = "17643229809", AllowAlternativeCFrame = false, CoordinateFrame = CFrameAngles(0, 0, 0), AlternativeCFrame = CFrameidentity },
+{ Blacklist = true, Name = "Left Arm", AlternativeName = "LeftLowerArm", MeshId = "18881741455", TextureId = "17643229809", AllowAlternativeCFrame = false, CoordinateFrame = CFrameAngles(0, 0, 0), AlternativeCFrame = CFrameidentity },    
+{ Blacklist = true, Name = "Right Leg", AlternativeName = "RightLowerLeg", MeshId = "18881739115", TextureId = "18430134193", AllowAlternativeCFrame = false, CoordinateFrame = CFrameAngles(0, 0, 0), AlternativeCFrame = CFrameidentity },
+{ Blacklist = true, Name = "Left Leg", AlternativeName = "LeftLowerLeg", MeshId = "18881741455", TextureId = "18430134193", AllowAlternativeCFrame = false, CoordinateFrame = CFrameAngles(0, 0, 0), AlternativeCFrame = CFrameidentity },
 
 -- (OLD) Noob Rig
 { Blacklist = true, Name = "Torso", AlternativeName = "UpperTorso", MeshId = "18640899369", TextureId = "18640899481", AllowAlternativeCFrame = false, CoordinateFrame = CFrameidentity, AlternativeCFrame = CFrameidentity },
@@ -752,7 +752,7 @@ Accessories = {
 { Blacklist = true, Name = "Left Arm", AlternativeName = "LeftLowerArm", MeshId = "14255522247", TextureId = "14255543546", AllowAlternativeCFrame = false, CoordinateFrame = CFrameAngles(0, 1.57, 1.57), AlternativeCFrame = CFrameidentity },
 
 -- TEMP
-{ Blacklist = false, Name = "Gun", AlternativeName = "Gun", MeshId = "17386451149", TextureId = "17386451217", AllowAlternativeCFrame = false, CoordinateFrame = CFramenew(1.15, -2.15, -1.15)  * CFrameAngles(0, 1.57, -1.57), AlternativeCFrame = CFrameidentity },
+{ Blacklist = false, Name = "Gun", AlternativeName = "Gun", MeshId = "136639024005182", TextureId = "79386784980218", AllowAlternativeCFrame = false, CoordinateFrame = CFramenew(1.15, 0, -1.15)  * CFrameAngles(0, 1.57, -1.57), AlternativeCFrame = CFrameidentity },
 { Blacklist = false, Name = "Gun", AlternativeName = "Gun", MeshId = "17386444997", TextureId = "17386445032", AllowAlternativeCFrame = false, CoordinateFrame = CFramenew(1.15, -7.35, -1.380)  * CFrameAngles(0, 1.57, -1.57), AlternativeCFrame = CFrameidentity },
 },
 Rig = {
